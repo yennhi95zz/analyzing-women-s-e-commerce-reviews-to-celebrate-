@@ -2,6 +2,9 @@
 
 March 8th marks International Women's Day, a day dedicated to celebrating the achievements and contributions of women worldwide. To commemorate this day, we will be analyzing a public dataset about women to gain insights into their lives and experiences. We will be using Python to perform the analysis and visualize the data, making it easy for beginners to follow along.
 
+<img src="https://tryengineering.org/wp-content/uploads/bigstock-International-Women-s-Day-Set-404956790-1024x683.jpg" alt="Happy International Woman's Day" width="70%">
+
+
 ## Dataset
 
 This project analyzes the [Women's Clothing E-Commerce Reviews](https://medium.com/r/?url=https%3A%2F%2Fwww.kaggle.com%2Fdatasets%2Fnicapotato%2Fwomens-ecommerce-clothing-reviews) dataset available on Kaggle to gain insights into women's lives and experiences. The dataset contains customer reviews and ratings of clothing products from an e-commerce website, along with information about the clothing item, customer demographics, and their reviews and ratings of the product.
@@ -35,7 +38,7 @@ Based on the dataset, the analysis draws several conclusions and makes recommend
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. You can also open an issue if you have any questions or suggestions.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt) file for details.
 
 ## References:
 - Full Article on Medium: [READ MORE](https://medium.com/@yennhi95zz/celebrating-international-womens-day-analyzing-a-public-dataset-to-appreciate-the-women-in-our-e8fa10d6aea0)
