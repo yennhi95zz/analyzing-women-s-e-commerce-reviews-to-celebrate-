@@ -7,7 +7,7 @@ March 8th marks International Women's Day, a day dedicated to celebrating the ac
 
 ## Dataset
 
-This project analyzes the [Women's Clothing E-Commerce Reviews](https://medium.com/r/?url=https%3A%2F%2Fwww.kaggle.com%2Fdatasets%2Fnicapotato%2Fwomens-ecommerce-clothing-reviews) dataset available on Kaggle to gain insights into women's lives and experiences. The dataset contains customer reviews and ratings of clothing products from an e-commerce website, along with information about the clothing item, customer demographics, and their reviews and ratings of the product.
+This project analyzes the [Women's Clothing E-Commerce Reviews](https://www.kaggle.com/datasets/nhiyen/womens-e-commerce-clothing-reviews) dataset available on Kaggle to gain insights into women's lives and experiences. The dataset contains customer reviews and ratings of clothing products from an e-commerce website, along with information about the clothing item, customer demographics, and their reviews and ratings of the product.
 
 ## Getting Started
 To run this analysis, you'll need to have Python 3 and the following libraries installed:
@@ -42,7 +42,7 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 
 ## References:
 - Full Article on Medium: [READ MORE](https://medium.com/@yennhi95zz/celebrating-international-womens-day-analyzing-a-public-dataset-to-appreciate-the-women-in-our-e8fa10d6aea0)
-- Kaggle Dataset: [Women's Clothing E-Commerce Reviews](https://medium.com/r/?url=https%3A%2F%2Fwww.kaggle.com%2Fdatasets%2Fnicapotato%2Fwomens-ecommerce-clothing-reviews)
+- Kaggle Dataset: [Women's Clothing E-Commerce Reviews](https://www.kaggle.com/datasets/nhiyen/womens-e-commerce-clothing-reviews)
 
 Kaggle: https://www.kaggle.com/nhiyen/analyzing-women-s-e-commerce-reviews-to-celebrate
 
